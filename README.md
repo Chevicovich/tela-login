@@ -1,5 +1,11 @@
-<h1>Tela de login</h1>
+# Projeto tela de login 
 
-Somente o frontend
+[Clique Aqui](https://chevicovich.github.io/tela-login/)
 
-<img width="1350" height="630" alt="image" src="https://github.com/user-attachments/assets/5ba55152-d030-4532-992b-0a739a12f977" />
+- Há somente o frontend
+
+## Tecnologias utilizadas
+<div>
+  <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />               
+</div><br/>
